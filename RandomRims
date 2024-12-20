@@ -1,0 +1,127 @@
+while RandomVers = "on"
+do
+wait(0.2)
+local args = {
+    [1] = "RimType",
+    [2] = "Quintuple Fork Thin"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("CustomsRemote"):FireServer(unpack(args))
+wait(0.2)
+local args = {
+    [1] = "RimType",
+    [2] = "10 Splay"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("CustomsRemote"):FireServer(unpack(args))
+wait(0.2)
+local args = {
+    [1] = "RimType",
+    [2] = "Quintuple Fork"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("CustomsRemote"):FireServer(unpack(args))
+wait(0.2)
+local args = {
+    [1] = "RimType",
+    [2] = "Parallel Star"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("CustomsRemote"):FireServer(unpack(args))
+wait(0.2)
+local args = {
+    [1] = "RimType",
+    [2] = "Deep Couple Spoke"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("CustomsRemote"):FireServer(unpack(args))
+wait(0.2)
+local args = {
+    [1] = "RimType",
+    [2] = "Decuple Star"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("CustomsRemote"):FireServer(unpack(args))
+wait(0.2)
+local args = {
+    [1] = "RimType",
+    [2] = "Decuple Fork"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("CustomsRemote"):FireServer(unpack(args))
+wait(0.2)
+local args = {
+    [1] = "RimType",
+    [2] = "8 Spoke Deep"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("CustomsRemote"):FireServer(unpack(args))
+wait(0.2)
+local args = {
+    [1] = "RimType",
+    [2] = "8 Spoke"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("CustomsRemote"):FireServer(unpack(args))
+wait(0.2)
+local args = {
+    [1] = "RimType",
+    [2] = "8 Pipe"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("CustomsRemote"):FireServer(unpack(args))
+wait(0.2)
+local args = {
+    [1] = "RimType",
+    [2] = "7 Cog"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("CustomsRemote"):FireServer(unpack(args))
+wait(0.2)
+local args = {
+    [1] = "RimType",
+    [2] = "6 Dual"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("CustomsRemote"):FireServer(unpack(args))
+wait(0.2)
+local args = {
+    [1] = "RimType",
+    [2] = "5 Bar Deep"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("CustomsRemote"):FireServer(unpack(args))
+wait(0.2)
+local args = {
+    [1] = "RimType",
+    [2] = "5 Bar"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("CustomsRemote"):FireServer(unpack(args))
+wait(0.2)
+local args = {
+    [1] = "RimType",
+    [2] = "16 Spoke"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("CustomsRemote"):FireServer(unpack(args))
+wait(0.2)
+local args = {
+    [1] = "RimType",
+    [2] = "12 Spoke Thin"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("CustomsRemote"):FireServer(unpack(args))
+end
+
+
+
+
+
+
+
+  
+
+
+
+
